@@ -124,7 +124,7 @@ def create_pdf(entry):
 if "entries" not in st.session_state:
     st.session_state.entries = []
 
-st.title("Civil Work Job Management System")
+st.title("***SP ENTERPRISES QUOTATION***")
 
 # --- Form for new entries ---
 with st.form("entry_form"):
